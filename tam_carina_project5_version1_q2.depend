@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526058309 source:g:\documents\c programming\project 5\tam_carina_project5_version1_q2\function_3d.c
+	"header_3d.h"
+	<math.h>
+
+1526057227 g:\documents\c programming\project 5\tam_carina_project5_version1_q2\header_3d.h
+
+1526058097 source:g:\documents\c programming\project 5\tam_carina_project5_version1_q2\main.c
+	"header_2d.h"
+	"header_3d.h"
+	<stdio.h>
+
+1526057248 g:\documents\c programming\project 5\tam_carina_project5_version1_q2\header_2d.h
+
+1526058272 source:g:\documents\c programming\project 5\tam_carina_project5_version1_q2\function_2d.c
+	"header_2d.h"
+	<math.h>
+
